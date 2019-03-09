@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Eastbound on the Southern Tier in 2014`,
+    author: `Chris (fool) McCraw`
+    description: `tales and photos from a bike ride in 2014`
+    siteUrl: `https://ride2014.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fool`,
     },
   },
   plugins: [
@@ -66,7 +66,7 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
-    `gatsby-plugin-offline`,
+//    `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
