@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Eastbound on the Southern Tier in 2014`,
-    author: `Chris (fool) McCraw`
-    description: `tales and photos from a bike ride in 2014`
+    author: `Chris (fool) McCraw`,
+    description: `tales and photos from a bike ride in 2014`,
     siteUrl: `https://ride2014.netlify.com/`,
     social: {
       twitter: `fool`,
