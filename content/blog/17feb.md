@@ -1,5 +1,5 @@
 ---
-title: mojo & desert: found!
+title: "mojo and desert: found!"
 date: "2014-02-17T21:01:39-08:00"
 ---
                                     
