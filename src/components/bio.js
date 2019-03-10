@@ -38,8 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by 
-              <a href={`https://twitter.com/${social.twitter}`}><strong>{author}</strong></a> who lives and plays in Portland, Oregon. 
+              Written by <a href={`https://twitter.com/${social.twitter}`}><strong>{author}</strong></a> who lives and plays in Portland, Oregon. 
             </p>
           </div>
         )
