@@ -1,0 +1,11 @@
+---
+title: coming to town
+date: "2014-02-21T11:01:39-08:00"
+---
+Phoenix marks a week on the road for me, ~400 miles.  but coming to town was no ...</p>
+<p><img src="https://66.media.tumblr.com/5f5f588d7338fddc2635a3af90e9d990/tumblr_inline_n1ct9lJJLI1suf445.jpg"/></p>
+<p> surprise!  (the fairly populous suburb of phoenix which i first touched on my way in).  I had hotel reservations for not one but two nights, and am trying to get myself ready for the much harder upcoming stretch - lots of climbing - by giving my legs a rest and my body some rejuvenation.  i booked a massage which will hopefully let the legs and shoulders get super relaxed, and i plan to shed a tiny bit of weight as i send in my taxes and mail off a few things i haven't been using and probably don't need to carry anymore.</p>
+<p>on my way into town yesterday, it was nearly entirely downhill and only about 50 miles, but the last 10 or so were through parkland, inside the city.  desert = high flash flood potential = let's be ready, i guess?  so there's a quarter-mile wide strip of phoenix that is called a "linear park" - but is actually just a canal waiting to happen (look, ma, no water now!)  and there are so many flash flood area signs around on the MUP's that border this park:</p>
+<p><img src="https://66.media.tumblr.com/152e1ce4f0b683e6380eb3d555d5a53b/tumblr_inline_n1ctbiwZ041suf445.jpg"/></p>
+<p>anyway, no flooding occurred while i rode through, and once i got in last night i did laundry in a washing machine (instead of the sink), and then went for a walk to the mall and replaced the shorts which really completely blew out on my way into town.  let's see how some dockers stand up to miles in the saddle - the shorts i had brought from home had seen a little riding before, but were not up to 400 straight miles.  (i wear my bike shorts under them, since, well, bike shorts are kinda offputting to notbikers, is one of the things i've increasingly realized as i bike more.  and i like making friends with notbikers...)</p>
+<p>the miles yesterday were surprisingly easy, but i know they get harder soon.  wish me luck as i cruise to el paso (my next city stop)!  also today's a good day to text me, since i'm just hanging around in town...</p>
