@@ -41,8 +41,6 @@ function Bio() {
               Written by 
               <a href={`https://twitter.com/${social.twitter}`}><strong>{author}</strong></a>
               who lives and plays in Portland, Oregon. 
-              {` `}
-              </a>
             </p>
           </div>
         )
