@@ -1,4 +1,3 @@
-               
 ---
 title: Sanderson to Langtry
 date: "2014-03-12T15:01:39-05:00"
